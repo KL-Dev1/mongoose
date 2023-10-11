@@ -1,3 +1,7 @@
+5.10.19.1 / 2023-10-11
+====================
+* fix: handle changing discrim key on nested ops for GH issue #13906, PR #13938
+
 5.10.19 / 2020-11-30
 ====================
  * fix(query): support passing an array to `$type` in query filters #9577
