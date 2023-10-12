@@ -1,4 +1,4 @@
-5.10.19.1 / 2023-10-11
+5.10.19-1 / 2023-10-11
 ====================
 * fix: handle changing discrim key on nested ops for GH issue #13906, PR #13938
 
