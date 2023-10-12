@@ -3,6 +3,7 @@ lib-cov
 *.sw*
 *.orig
 .DS_Store
+.idea/
 node_modules/
 benchmarks/
 docs/
